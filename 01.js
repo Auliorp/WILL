@@ -9,7 +9,7 @@ function soloNumeros(array) {
   // Debe devolver un arreglo con solo los enteros.
   // Ej: 
   // soloNumeros([1, 'Henry', 2]) debe retornar [1, 2]
-
+asdasd
   // Tu código aca:
 
 }
